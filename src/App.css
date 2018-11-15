@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  width: 100vw;
+}
+
+#preview {
+  width: 40%;
+  height: 90%;
+  vertical-align: top;
+  display: inline-block;
+}
+
+#rawInput {
+  width: 40%;
+  height: 90%;
+  vertical-align: top;
+  display: inline-block;
+}
+
+#DisplayContainer {
+  width: 100vw;
+  height: 100vh;
+}
+
+textarea {
+  height: 95% !important;
+  width: 95% !important;
+}
